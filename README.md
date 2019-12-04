@@ -1,2 +1,3 @@
 # Hello-World
-Trial test repository
+Trial test repository. 
+Getting familiar with GitHub repositories.
